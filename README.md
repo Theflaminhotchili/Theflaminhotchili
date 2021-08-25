@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Theflaminhotchili
-- 👀 I’m interested in games
+- 🎮 I’m interested in games
 - 🌱 I’m currently learning Java
 - 📫 How to reach me please dont
 
