@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Theflaminhotchili
-- 🎮 I’m interested in games
-- 🌱 I’m currently learning Java
-- 📫 How to reach me please dont
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: ravi.yalamanchili04@gmail.com
 
 <!---
 Theflaminhotchili/Theflaminhotchili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
